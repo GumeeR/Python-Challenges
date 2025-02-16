@@ -1,7 +1,5 @@
 # Python Challenges  
 
-This repository contains solutions to various programming challenges in **Python**. Each challenge is organized into a separate branch to facilitate exploration and tracking of solutions.  
-
 ## ✨ Repository Structure  
 
 - **Main Branch (`main`)**: README and general project references.  
