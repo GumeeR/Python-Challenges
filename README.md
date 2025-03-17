@@ -5,7 +5,7 @@
 - **Main Branch (`main`)**: README and general project references.  
 - **Challenge Branches**: Each challenge is developed in a specific branch with its own Python implementation.  
 
-### 🔗 How to Access a Challenge  
+### 🔗 How to Access a Challenge. 
 
 To explore a specific challenge, follow these steps:  
 
